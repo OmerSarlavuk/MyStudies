@@ -1,0 +1,8 @@
+C:\Users\Public\Source2\ConsoleApp1\CTORinjection\bin\Debug\CTORinjection.exe.config
+C:\Users\Public\Source2\ConsoleApp1\CTORinjection\bin\Debug\CTORinjection.exe
+C:\Users\Public\Source2\ConsoleApp1\CTORinjection\bin\Debug\CTORinjection.pdb
+C:\Users\Public\Source2\ConsoleApp1\CTORinjection\obj\Debug\CTORinjection.csproj.AssemblyReference.cache
+C:\Users\Public\Source2\ConsoleApp1\CTORinjection\obj\Debug\CTORinjection.csproj.SuggestedBindingRedirects.cache
+C:\Users\Public\Source2\ConsoleApp1\CTORinjection\obj\Debug\CTORinjection.csproj.CoreCompileInputs.cache
+C:\Users\Public\Source2\ConsoleApp1\CTORinjection\obj\Debug\CTORinjection.exe
+C:\Users\Public\Source2\ConsoleApp1\CTORinjection\obj\Debug\CTORinjection.pdb

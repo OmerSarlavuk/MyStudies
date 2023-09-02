@@ -1,0 +1,8 @@
+C:\Users\Public\Source2\ConsoleApp1\Staticler\bin\Debug\Staticler.exe.config
+C:\Users\Public\Source2\ConsoleApp1\Staticler\bin\Debug\Staticler.exe
+C:\Users\Public\Source2\ConsoleApp1\Staticler\bin\Debug\Staticler.pdb
+C:\Users\Public\Source2\ConsoleApp1\Staticler\obj\Debug\Staticler.csproj.AssemblyReference.cache
+C:\Users\Public\Source2\ConsoleApp1\Staticler\obj\Debug\Staticler.csproj.SuggestedBindingRedirects.cache
+C:\Users\Public\Source2\ConsoleApp1\Staticler\obj\Debug\Staticler.csproj.CoreCompileInputs.cache
+C:\Users\Public\Source2\ConsoleApp1\Staticler\obj\Debug\Staticler.exe
+C:\Users\Public\Source2\ConsoleApp1\Staticler\obj\Debug\Staticler.pdb

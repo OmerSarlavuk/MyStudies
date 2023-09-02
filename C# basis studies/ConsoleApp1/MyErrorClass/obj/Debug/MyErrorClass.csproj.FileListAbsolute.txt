@@ -1,0 +1,8 @@
+C:\Users\Public\Source2\ConsoleApp1\MyErrorClass\bin\Debug\MyErrorClass.exe.config
+C:\Users\Public\Source2\ConsoleApp1\MyErrorClass\bin\Debug\MyErrorClass.exe
+C:\Users\Public\Source2\ConsoleApp1\MyErrorClass\bin\Debug\MyErrorClass.pdb
+C:\Users\Public\Source2\ConsoleApp1\MyErrorClass\obj\Debug\MyErrorClass.csproj.AssemblyReference.cache
+C:\Users\Public\Source2\ConsoleApp1\MyErrorClass\obj\Debug\MyErrorClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Public\Source2\ConsoleApp1\MyErrorClass\obj\Debug\MyErrorClass.csproj.CoreCompileInputs.cache
+C:\Users\Public\Source2\ConsoleApp1\MyErrorClass\obj\Debug\MyErrorClass.exe
+C:\Users\Public\Source2\ConsoleApp1\MyErrorClass\obj\Debug\MyErrorClass.pdb

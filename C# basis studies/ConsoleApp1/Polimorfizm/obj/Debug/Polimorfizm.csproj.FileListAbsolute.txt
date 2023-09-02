@@ -1,0 +1,8 @@
+C:\Users\Public\Source2\ConsoleApp1\Polimorfizm\bin\Debug\Polimorfizm.exe.config
+C:\Users\Public\Source2\ConsoleApp1\Polimorfizm\bin\Debug\Polimorfizm.exe
+C:\Users\Public\Source2\ConsoleApp1\Polimorfizm\bin\Debug\Polimorfizm.pdb
+C:\Users\Public\Source2\ConsoleApp1\Polimorfizm\obj\Debug\Polimorfizm.csproj.AssemblyReference.cache
+C:\Users\Public\Source2\ConsoleApp1\Polimorfizm\obj\Debug\Polimorfizm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Public\Source2\ConsoleApp1\Polimorfizm\obj\Debug\Polimorfizm.csproj.CoreCompileInputs.cache
+C:\Users\Public\Source2\ConsoleApp1\Polimorfizm\obj\Debug\Polimorfizm.exe
+C:\Users\Public\Source2\ConsoleApp1\Polimorfizm\obj\Debug\Polimorfizm.pdb

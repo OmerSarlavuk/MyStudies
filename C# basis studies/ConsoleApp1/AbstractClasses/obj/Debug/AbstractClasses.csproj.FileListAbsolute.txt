@@ -1,0 +1,8 @@
+C:\Users\Public\Source2\ConsoleApp1\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+C:\Users\Public\Source2\ConsoleApp1\AbstractClasses\bin\Debug\AbstractClasses.exe
+C:\Users\Public\Source2\ConsoleApp1\AbstractClasses\bin\Debug\AbstractClasses.pdb
+C:\Users\Public\Source2\ConsoleApp1\AbstractClasses\obj\Debug\AbstractClasses.csproj.AssemblyReference.cache
+C:\Users\Public\Source2\ConsoleApp1\AbstractClasses\obj\Debug\AbstractClasses.csproj.SuggestedBindingRedirects.cache
+C:\Users\Public\Source2\ConsoleApp1\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\Public\Source2\ConsoleApp1\AbstractClasses\obj\Debug\AbstractClasses.exe
+C:\Users\Public\Source2\ConsoleApp1\AbstractClasses\obj\Debug\AbstractClasses.pdb
